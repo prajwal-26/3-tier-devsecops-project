@@ -27,7 +27,7 @@ spec:
                 name: frontend-svc
                 port:
                   number: 80
-    - host: www.adityajaiswal.com
+    - host: www.prajwal.com
       http:
         paths:
           - path: /api
