@@ -46,6 +46,6 @@ spec:
                   number: 80
   tls:
     - hosts:
-        - adityajaiswal.com
-        - www.adityajaiswal.com
-      secretName: adityajaiswal-co-tls
+        - prajwal.com
+        - www.prajwal.com
+      secretName: prajwal-co-tls
